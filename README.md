@@ -12,7 +12,7 @@
 - Claims
 - Loggin
 
-# Pasos para ejecutar:
+## Pasos para ejecutar:
 - 1.- Actualizar paquetes
 	PM> dotnet restore
 - 2.-Compilar:
@@ -21,5 +21,6 @@
 	PM>dotnet run
 - 4.-Revisar End-Point swagger:
 	http://localhost:4200/swagger/index.html
-- 6.-Realizar pruebas con Postman:
+- 5.-Realizar pruebas con Postman:
 	Abrir: ApiCustomerSqlite.postman_collection.json
+	
