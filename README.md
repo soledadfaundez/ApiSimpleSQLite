@@ -21,6 +21,6 @@
 	PM>dotnet run
 - 4.-Revisar End-Point swagger:
 	http://localhost:4200/swagger/index.html
-- 5.-Realizar pruebas con Postman:
+- 5.-Realizar pruebas en secuencia con Postman:
 	Abrir: ApiCustomerSqlite.postman_collection.json
 	
